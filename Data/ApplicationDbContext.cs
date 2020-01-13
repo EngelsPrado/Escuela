@@ -14,5 +14,6 @@ namespace SistemaAc.Data
         {
         }
         public DbSet<SistemaAc.Models.Categoria> Categoria { get; set; }
+        public DbSet<SistemaAc.Models.Curso> Curso { get; set; }
     }
 }

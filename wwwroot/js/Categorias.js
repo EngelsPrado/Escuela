@@ -53,6 +53,8 @@ class Categorias {
                 }
             }
         }
+
+        funcion=0
     }
     filtrarDatos(numPagina,order) {
         var valor = this.nombre;

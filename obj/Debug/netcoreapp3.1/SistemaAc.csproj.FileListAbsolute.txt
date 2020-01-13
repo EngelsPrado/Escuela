@@ -160,3 +160,8 @@ C:\Users\Admin\source\repos\SistemaAc\SistemaAc\obj\Debug\netcoreapp3.1\Razor\Vi
 C:\Users\Admin\source\repos\SistemaAc\SistemaAc\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Details.cshtml.g.cs
 C:\Users\Admin\source\repos\SistemaAc\SistemaAc\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Edit.cshtml.g.cs
 C:\Users\Admin\source\repos\SistemaAc\SistemaAc\obj\Debug\netcoreapp3.1\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\SistemaAc\SistemaAc\obj\Debug\netcoreapp3.1\Razor\Views\Cursos\Create.cshtml.g.cs
+C:\Users\Admin\source\repos\SistemaAc\SistemaAc\obj\Debug\netcoreapp3.1\Razor\Views\Cursos\Delete.cshtml.g.cs
+C:\Users\Admin\source\repos\SistemaAc\SistemaAc\obj\Debug\netcoreapp3.1\Razor\Views\Cursos\Details.cshtml.g.cs
+C:\Users\Admin\source\repos\SistemaAc\SistemaAc\obj\Debug\netcoreapp3.1\Razor\Views\Cursos\Edit.cshtml.g.cs
+C:\Users\Admin\source\repos\SistemaAc\SistemaAc\obj\Debug\netcoreapp3.1\Razor\Views\Cursos\Index.cshtml.g.cs
